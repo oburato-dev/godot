@@ -1,0 +1,3 @@
+[submodule "modules/godot_turbo"]
+	path = modules/godot_turbo
+	url = https://github.com/callmefloof/godot-turbo.git
